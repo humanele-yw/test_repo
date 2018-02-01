@@ -1,18 +1,20 @@
 #sumgroups
 
-#version: b1 ver1
+
+#version: b1 ver M
+
 
 #Add
 print(1:3)
 print(6:7)
 print(5)
-print(100)
+print(6)
 
 #delete
 b = 2
 
 #change
-print("19731205")
+print("19731221")
 
 
 
