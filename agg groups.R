@@ -1,17 +1,18 @@
 #sumgroups
 
-#version: master initial
+#version: master ver2
 
 #Add
 print(1:3)
 print(6:7)
+print(5)
 
 #delete
 a = 1
 b = 2
 
 #change
-print("19731204")
+print("19731205")
 
 
 
